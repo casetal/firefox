@@ -1,0 +1,58 @@
+{
+  "applyThemeColorToIcon": true,
+  "autoCollapseExpandSubtreeOnAttach": false,
+  "autoCollapseExpandSubtreeOnSelect": false,
+  "autoGroupNewTabsFromPinned": false,
+  "chunkedUserStyleRules0": "I2JhY2tncm91bmQgewogIGJhY2tncm91bmQ6ICMwYjBiMGI7Cn0KCkBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PVJhbGV3YXknKTsKCi50YWIgewogIGJhY2tncm91bmQ6ICMyMjI7CiAgY29sb3I6ICNjM2MzYzM7CiAgYm9yZGVyOiBzb2xpZCAxcHggIzRjNGM0YzsKICBib3JkZXItcmFkaXVzOiA1cHg7CiAgbWFyZ2luOiAzcHggMDsKICBtYXJnaW4tbGVmdDogNXB4OwogIHBhZGRpbmc6IDVweCAwOwogIGZvbnQtc2l6ZTogOC41cHQ7CiAgZmlsdGVyOiBncmF5c2NhbGUoNTAlKTsKICB0cmFuc2l0aW9uOiAwcyFpbXBvcnRhbnQ7Cn0KCjpyb290LnNpZGViYXIgI2JhY2tncm91bmQgewogIGJhY2tncm91bmQ6IHVybCgiaHR0cHM6Ly93YWxscGFwZXJhY2Nlc3MuY29tL2Z1bGwvMTExNjg5NC5qcGciKTsKICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwogIGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlciBib3R0b207Cn0KCiN0YWJiYXIgeyAKICBvdmVyZmxvdy15OiBzY3JvbGw7Cn0KCjpyb290LmxlZnQgI3RhYmJhciwKI3RhYkNvbnRleHRNZW51LAojdGFiQ29udGV4dE1lbnUgdWwgewogIG1hcmdpbi1sZWZ0OiAtMTBweDsKfQoKOnJvb3QucmlnaHQgI3RhYmJhciB7CiAgbWFyZ2luLXJpZ2h0OiAtMTBweDsKfQoKLnRhYi5hY3RpdmUgewogIGJhY2tncm91bmQ6ICM1ZDVkNWQ7CiAgZmlsdGVyOiBncmF5c2NhbGUoMCUpOwogIGNvbG9yOiAjZmZmOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgbGV0dGVyLXNwYWNpbmc6IC4xNXB0Owp9CgoudGFiOmhvdmVyIHsKICBvcGFjaXR5OiAuNTsKfQoKdGFiLWl0ZW0gLnR3aXN0eSB7CiAgICB2aXNpYmlsaXR5OiBoaWRkZW47CiAgICBtYXJnaW4tbGVmdDogLTEycHg7Cn0KCi8qIEhpZGUgdGhlIGZhdmljb24gb24gbmV3IHRhYnMuICovCnRhYi1pdGVtOm5vdCgubG9hZGluZyk6LW1vei1hbnkoW2RhdGEtY3VycmVudC11cmk9ImFib3V0Om5ld3RhYiJdLCBbZGF0YS1jdXJyZW50LXVyaT0iYWJvdXQ6aG9tZSJdLCBbZGF0YS1jdXJyZW50LXVyaT0iYWJvdXQ6YmxhbmsiXSkgdGFiLWZhdmljb24gewogIHZpc2liaWxpdHk6IGhpZGRlbjsKfQoKdGFiLWl0ZW1bZGF0YS1jdXJyZW50LXVyaV49Imh0dHBzOi8vdGpvdXJuYWwucnUiXSB7CiAgYmFja2dyb3VuZC1jb2xvcjogIzY2NDIwMCFpbXBvcnRhbnQ7Cn0KdGFiLWl0ZW1bZGF0YS1jdXJyZW50LXVyaV49Imh0dHBzOi8vMmNoLmhrIl0gewogIGJhY2tncm91bmQtY29sb3I6ICNlZjM1MDAhaW1wb3J0YW50Owp9CnRhYi1pdGVtW2RhdGEtY3VycmVudC11cmlePSJodHRwczovL3d3dy55b3V0dWJlLmNvbSJdIHsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjRkYwMDAwIWltcG9ydGFudDsKfQp0YWItaXRlbVtkYXRhLWN1cnJlbnQtdXJpXj0iaHR0cHM6Ly92ay5jb20iXSB7CiAgYmFja2dyb3VuZC1jb2xvcjogIzFhNTg5ZiFpbXBvcnRhbnQ7Cn0KCnRhYi1pdGVtIHRhYi1mYXZpY29uIHsKICBtYXJnaW4tcmlnaHQ6IDEwcHg7CiAgbWFyZ2luLWxlZnQ6IDVweDsKICBmaWx0ZXI6IGdyYXlzY2FsZSgxMDAlKTsKfQoKdGFiLWZhdmljb246aG92ZXJ7CmZpbHRlcjogZ3JheXNjYWxlKDApIWltcG9ydGFudDsKfQoKdGFiLWl0ZW06aG92ZXIgdGFiLWZhdmljb24sIAp0YWItaXRlbS5hY3RpdmUgdGFiLWZhdmljb24gewogIGZpbHRlcjogZ3JheXNjYWxlKDApOwp9Cgo6cm9vdC5sZWZ0IHRhYi1pdGVtIHRhYi1jbG9zZWJveCB7CiAgZGlzcGxheTogbm9uZTsKfQoKCjpyb290LmxlZnQgdGFiLWl0ZW06aG92ZXIgdGFiLWNsb3NlYm94IHsKICBkaXNwbGF5OiBibG9jazsKfQoKLm5ld3RhYi1idXR0b24gewogIGJhY2tncm91bmQ6ICMyMjI7CiAgY29sb3I6ICNjM2MzYzM7CiAgYm9yZGVyOiBzb2xpZCAxcHggIzRjNGM0YzsKICBmb250LXNpemU6IDA7CiAgcGFkZGluZzogNXB4OwogIHdpZHRoOiA5MyU7CiAgbWFyZ2luOiA1cHggYXV0bzsKICBkaXNwbGF5OiBub25lOwp9",
+  "configsVersion": 19,
+  "context_collapseAll": false,
+  "context_collapseTreeRecursively": false,
+  "fixupTreeOnTabVisibilityChanged": true,
+  "labelOverflowStyle": "crop",
+  "lastConfirmedToCloseTabs": 1607906352354,
+  "lastDraggedTabs": {
+    "tabIds": [
+      27
+    ],
+    "urlsDigest": "f300c3bc2f9902370fcb4bf9837976d5b92b1333"
+  },
+  "notifiedFeaturesVersion": 7,
+  "optionsExpandedSections": [
+    "section-appearance",
+    "section-addons",
+    "section-contextMenu",
+    "section-treeBehavior",
+    "section-drag",
+    "section-advanced",
+    "section-newTab",
+    "section-debug"
+  ],
+  "showExpertOptions": true,
+  "style": "none",
+  "syncDeviceInfo": {
+    "id": "device-1607831173802-6841",
+    "name": "Firefox on Windows",
+    "icon": "device-desktop",
+    "timestamp": 1608304257295
+  },
+  "syncDevices": {
+    "device-1607831173802-6841": {
+      "id": "device-1607831173802-6841",
+      "name": "Firefox on Windows",
+      "icon": "device-desktop",
+      "timestamp": 1608304257295
+    }
+  },
+  "syncDevicesLocalCache": {
+    "device-1607831173802-6841": {
+      "id": "device-1607831173802-6841",
+      "name": "Firefox on Windows",
+      "icon": "device-desktop",
+      "timestamp": 1608304257295
+    }
+  },
+  "treeDoubleClickBehavior": 1,
+  "userStyleRules": "",
+  "warnOnAutoGroupNewTabs": false,
+  "warnOnAutoGroupNewTabsWithListing": false
+}
