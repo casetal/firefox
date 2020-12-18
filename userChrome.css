@@ -1,0 +1,27 @@
+/* hides the native tabs */
+
+/* hides the native tabs */
+#tabbrowser-tabs {  visibility: collapse;}
+#nav-bar {
+    margin-top: -28px;
+    margin-right: 140px;
+    margin-bottom: -4px;
+}
+
+#sidebar-header {
+  display: none;
+} 
+
+#sidebar {
+	margin-top: 5px;
+}
+
+/**
+#PersonalToolbar {
+	margin-top: -30px;
+	margin-left: 150px;
+	z-index: -99999!important;
+	height: 27px!important
+
+}
+**/
