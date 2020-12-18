@@ -1,0 +1,108 @@
+#background {
+  background: #0b0b0b;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway');
+
+.tab {
+  background: #222;
+  color: #c3c3c3;
+  border: solid 1px #4c4c4c;
+  border-radius: 5px;
+  margin: 3px 0;
+  margin-left: 5px;
+  padding: 5px 0;
+  font-size: 8.5pt;
+  filter: grayscale(50%);
+  transition: 0s!important;
+}
+
+:root.sidebar #background {
+  background: url("https://wallpaperaccess.com/full/1116894.jpg");
+  background-size: cover;
+  background-position: center bottom;
+}
+
+#tabbar { 
+  overflow-y: scroll;
+}
+
+:root.left #tabbar,
+#tabContextMenu,
+#tabContextMenu ul {
+  margin-left: -10px;
+}
+
+:root.right #tabbar {
+  margin-right: -10px;
+}
+
+.tab.active {
+  background: #5d5d5d;
+  filter: grayscale(0%);
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: .15pt;
+}
+
+.tab:hover {
+  opacity: .5;
+}
+
+tab-item .twisty {
+    visibility: hidden;
+    margin-left: -12px;
+}
+
+/* Hide the favicon on new tabs. */
+tab-item:not(.loading):-moz-any([data-current-uri="about:newtab"], [data-current-uri="about:home"], [data-current-uri="about:blank"]) tab-favicon {
+  visibility: hidden;
+}
+
+tab-item[data-current-uri^="https://tjournal.ru"] {
+  background-color: #664200!important;
+}
+tab-item[data-current-uri^="https://2ch.hk"] {
+  background-color: #ef3500!important;
+}
+tab-item[data-current-uri^="https://www.youtube.com"] {
+  background-color: #FF0000!important;
+}
+tab-item[data-current-uri^="https://vk.com"] {
+  background-color: #1a589f!important;
+}
+
+tab-item tab-favicon {
+  margin-right: 10px;
+  margin-left: 5px;
+  filter: grayscale(100%);
+}
+
+tab-favicon:hover{
+filter: grayscale(0)!important;
+}
+
+tab-item:hover tab-favicon, 
+tab-item.active tab-favicon {
+  filter: grayscale(0);
+}
+
+:root.left tab-item tab-closebox {
+  display: none;
+}
+
+
+:root.left tab-item:hover tab-closebox {
+  display: block;
+}
+
+.newtab-button {
+  background: #222;
+  color: #c3c3c3;
+  border: solid 1px #4c4c4c;
+  font-size: 0;
+  padding: 5px;
+  width: 93%;
+  margin: 5px auto;
+  display: none;
+}
